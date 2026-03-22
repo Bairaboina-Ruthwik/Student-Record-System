@@ -27,6 +27,9 @@ Student data is stored in a text file called `students.txt`.
 ```
 python main.py
 ```
+## Improvements and Updates 
+
+This will be Upagraded with more details using NumPy
 
 ## Author
 
